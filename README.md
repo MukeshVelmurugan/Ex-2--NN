@@ -116,7 +116,10 @@ plt.show()
 ```
 
 ### OUTPUT:
-![image](https://github.com/MukeshVelmurugan/Ex-2--NN/assets/118707363/e15a72cd-de91-4fc3-9365-fcb3fc48a50d);![image](https://github.com/MukeshVelmurugan/Ex-2--NN/assets/118707363/10b57f1d-9a35-4377-ae43-ce68a7e6a943)
+![image](https://github.com/MukeshVelmurugan/Ex-2--NN/assets/118707363/c4e60491-d074-4f82-ad4d-d012df96d336)
+![image](https://github.com/MukeshVelmurugan/Ex-2--NN/assets/118707363/502e5d8f-13cb-4d85-9540-ab96c2ad7bd3)
+![image](https://github.com/MukeshVelmurugan/Ex-2--NN/assets/118707363/448d4077-244d-43cf-86db-c8f80e986e42)
+
 
 
 
